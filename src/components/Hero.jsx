@@ -18,8 +18,11 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915eff]">Sebastian
               </span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop 3D visuals, user <br className="sm:block hidden" />
-            interfaces and web applications
+            I'm a college student majoring in CS with<br className="sm:block hidden" />
+            a concentration in AI. I hope to build projects<br className="sm:block hidden" />
+            that use AI and Machine Learning techniques while<br className="sm:block hidden" />
+            developing other fun projects as well!<br className="sm:block hidden" />
+            Glad to have you on the journey!
           </p>
         </div>
       </div>
