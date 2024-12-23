@@ -1,8 +1,10 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is dedicated to my projects and future endeavors. It was built using languages such as JavaScript, HTML, and CSS in a Nodejs environment. This website also imported libraries that help make it more responsive and interactive with the users. React, Reactjs, and Threejs were key in the 3D designs and overall structure.
 
-Currently, two official plugins are available:
+In the future, this website will be subject to change and improved upon.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run the code, simply run the command line 'npm run dev' after installing npm. Then click on the local:host link.
+This website will eventually get its domain and web host after we have finalized it.
+
+
