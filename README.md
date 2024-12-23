@@ -9,13 +9,16 @@ In the future, this website will be subject to change and improved upon. This we
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repo.git
-2. Install dependencies:
+2. Navigate into project directory
+   ```bash
+   cd repo
+3. Install dependencies:
    ```bash
    npm install
-3. Run
+4. Run
    ```bash
    npm start
-4. Access application
+5. Access application
    ```bash
    npm run dev
 
