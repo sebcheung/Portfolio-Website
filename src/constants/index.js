@@ -53,10 +53,10 @@ import {
       title: "AI/ML Engineer",
       icon: creator,
     },
-    // {
-    //   title: "",
-    //   icon: mobile,
-    // },
+    {
+      title: "Software Engineer",
+      icon: mobile,
+    },
     // {
     //   title: "",
     //   icon: backend,
